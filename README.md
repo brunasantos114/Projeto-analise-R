@@ -21,11 +21,6 @@ Tecnologias
 **Pacotes Principais:** `dplyr` (Transformação e Agrupamento), `tidyr` (Pivotamento), `readxl`/`writexl` (Manipulação de Excel)
 **Ferramentas:** RStudio, Git/GitHub
 
-Resultado final na imagem abaixo com alguns dados sensíveis ocultos:
-
-<img width="1742" height="848" alt="image" src="https://github.com/user-attachments/assets/b667c7a2-f87b-4dae-82c8-a1c0b7a55b16" />
-
-
 FASE 2 - 
 
 - NECESSIDADE DO CLIENTE
